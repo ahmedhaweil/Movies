@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-## _Movie list application using the TMDb API created for the Mobile Programming discipline, created by Ahmed Haweil.
+Movie list application using the TMDb API created for the Mobile Programming discipline, created by Ahmed Haweil.
 ________________________________________________________________
 # Libraries
 - Rxdart,
