@@ -1,17 +1,17 @@
-Swira Movie
+# Swira Movie
 
-Getting Started
+## Getting Started
 
-Movie list application using the TMDb API created for the Mobile Programming discipline, created by Ahmed Haweil.
+## _Movie list application using the TMDb API created for the Mobile Programming discipline, created by Ahmed Haweil.
 ________________________________________________________________
-Libraries
-Rxdart,
-Bloc,
-Dio,
-sqflite
+# Libraries
+- Rxdart,
+- Bloc,
+- Dio,
+- sqflite
 _________________________________________________________________
 
-Screenshots
+# Screenshots
   
      
 
